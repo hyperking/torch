@@ -10,7 +10,6 @@ Features:
 - Iframe Content (youtube, vimeo, web pages)
 - Inline Content
 - Images
-- 
 - No Dependencies (pure javascript)
 
 License
